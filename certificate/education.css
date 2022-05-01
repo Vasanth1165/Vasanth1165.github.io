@@ -1,0 +1,20 @@
+h1{
+	text-align:center;
+	color:red;
+	background-color:greenyellow;
+	/*border-right-color:indigo;*/
+	font-style: oblique;
+	/*background-image: initial;*/
+
+}
+body{
+	background-color: powderblue;
+}
+dt{
+	color: forestgreen;
+}
+p{
+	font-style: oblique;
+	font-size: medium;
+	color: black;
+}
