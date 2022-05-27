@@ -2,13 +2,13 @@ h1{
 	text-align:center;
 	color:red;
 	background-color:greenyellow;
-	/*border-right-color:indigo;*/
 	font-style: oblique;
 	background-image: initial;
 
 }
 body{
 	background-color: powderblue;
+	/*background-image: url('kitten.jpg');*/
 }
 dt{
 	color: forestgreen;
